@@ -115,12 +115,26 @@ h1, h3 {
     color: white;
 }
 
+.row {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.row img {
+    width: 100%;
+}
+
 .column-1 {
-    width: 40%;
+    width: 50%;
     float: left;
 }
 
 .column-2 {
+    padding: 50px 0px;
     float: left;
-    width: 60%;
+    width: 50%;
+}
+
+h4 {
+    padding: 20px 0px;
 }
